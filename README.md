@@ -34,6 +34,7 @@ This project is a chatbot application designed for pizza ordering and customer s
 
 ## 📂 Project Structure
 
+```
 AI-Pizza-Chatbot/
 ├── app.py
 ├── requirements.txt
@@ -44,6 +45,8 @@ AI-Pizza-Chatbot/
 ├── templates/
 │   └── index.html
 └── README.md
+```
+
 
 ---
 
