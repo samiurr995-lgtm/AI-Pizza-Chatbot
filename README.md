@@ -137,8 +137,8 @@ Bot: Sure, please select size and type.
 
 | Detail | Info |
 |--------|------|
-| Student | Sami Ur Rehman (23108323) |
-| Institution | SZABIST — Dept. of Robotics & AI |
+| Student | Sami-Ur-Rehman (Registration number: 23108323) |
+| Institution | SZABIST — Department of Robotics & AI |
 | Subject | Artificial Neural Networks (ANN) |
 | Instructor | Sir Hassan Mujtaba |
 
