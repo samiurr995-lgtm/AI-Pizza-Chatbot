@@ -1,71 +1,75 @@
 # 🍕 AI-Powered Pizza Ordering Chatbot (Flask Web Application)
 
-A web-based pizza chatbot developed using Flask, HTML, CSS, and Python. This project is a simple conversational system that allows users to interact with a virtual assistant for browsing pizza menu, placing orders, and getting basic restaurant information.
+A web-based pizza chatbot developed using Flask, HTML, CSS, and Python. This project is a conversational web application that allows users to interact with a virtual pizza assistant for browsing menu items, placing orders, and obtaining restaurant-related information through a simple and user-friendly interface.
 
 ---
 
 ## 📌 Project Overview
 
-This project is a chatbot-based web application designed for pizza ordering. It works like a virtual assistant where users can chat and perform different actions such as viewing menu items, checking prices, placing orders, and getting delivery details.
+This project is designed as a chatbot-based web application for pizza ordering. It enables users to communicate with a virtual assistant and perform common restaurant-related tasks such as viewing menu items, checking prices, placing orders, and receiving delivery information.
 
-The main purpose of this project is to understand how chatbot systems can be integrated into web applications using Flask.
+The project demonstrates how chatbot functionality can be integrated into web applications using Flask and basic Artificial Intelligence concepts.
 
 ---
 
 ## 🤖 AI Concept Used
 
-This chatbot is based on a simple rule-based logic where user inputs are matched with predefined responses. It behaves like a basic NLP system and gives replies according to user queries such as menu, order, or support.
+The chatbot uses a rule-based conversational approach where user messages are analyzed and matched with predefined intents and responses. This simulates the behavior of a basic Natural Language Processing (NLP) system and provides relevant responses for different user requests.
 
 ---
 
 ## 🌟 Features
 
-- Chat-based interaction system  
-- Pizza menu display  
-- Order placement system (simulated)  
-- Delivery information responses  
-- Simple and clean UI  
-- Easy to use interface  
+* Interactive chat-based communication
+* Pizza menu exploration
+* Order placement simulation
+* Delivery information support
+* User-friendly interface
+* Fast response system
+* Flask-powered web application
+* AI-inspired chatbot behavior
 
 ---
 
 ## 🎯 System Architecture
 
-User Input → Flask Backend → Simple Intent Matching → Response Output → Chat Interface
+User Input → Flask Backend → Intent Detection → Response Generation → Chat Interface
 
 ---
 
 ## 🛠 Technologies Used
 
-- Python  
-- Flask  
-- HTML  
-- CSS  
-- JavaScript  
+* Python
+* Flask
+* HTML
+* CSS
+* JavaScript
+* Jupyter Notebook
 
 ---
 
 ## 📚 Course Concepts Applied
 
-| Week | Topic | Implementation |
-|------|------|----------------|
-| Week 1 | Python Basics | Flask setup and basic coding |
-| Week 2 | Web Basics | HTML pages and routing |
-| Week 3 | Data Handling | Menu and user input processing |
-| Week 4 | Logic Building | Conditional response system |
-| Week 5 | Chat Logic | Intent-based simple chatbot responses |
-| Week 6 | Basic AI Idea | Rule-based chatbot behavior |
-| Week 7 | Integration | Frontend and backend connection |
-| Week 9 | UI Design | Chat interface styling |
-| Week 10 | Optimization | Improved response flow |
+| Topic                   | Implementation                                       |
+| ----------------------- | ---------------------------------------------------- |
+| Python Basics           | Flask setup and backend development                  |
+| Web Development         | HTML page creation and routing                       |
+| Data Handling           | Processing user inputs and menu data                 |
+| Logic Design            | Conditional response generation                      |
+| Conversational Flow     | Intent-based chatbot interactions                    |
+| AI Fundamentals         | Rule-based chatbot implementation                    |
+| System Integration      | Frontend and backend communication                   |
+| User Interface Design   | Chat layout and styling using CSS                    |
+| Performance Enhancement | Improved response handling and workflow optimization |
 
 ---
 
 ## 📂 Project Structure
 
-```
+```text
 AI-Pizza-Chatbot/
 ├── app.py
+├── Pizza_Chatbot_Model.ipynb
 ├── requirements.txt
 ├── ANN Project Application.pdf
 ├── static/
@@ -83,66 +87,95 @@ AI-Pizza-Chatbot/
 
 ## 🚀 How to Run
 
-### Step 1
-Install required libraries:
+### Step 1: Install Dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 2
-Run the Flask application:
+### Step 2: Run the Application
+
 ```bash
 python app.py
 ```
 
-### Step 3
-Open browser and go to:
-```
+### Step 3: Open in Browser
+
+```text
 http://127.0.0.1:5000
 ```
 
 ---
 
-## 💬 Sample Chat
+## 💬 Sample Conversation
 
-User: Hi  
-Bot: Hello! Welcome to Pizza Chatbot.
+**User:** Hi
 
-User: Show menu  
-Bot: We have Margherita, Pepperoni, BBQ Chicken, Veggie pizza.
+**Bot:** Hello! Welcome to Pizza Chatbot. How can I help you today?
 
-User: I want pizza  
-Bot: Sure, please select size and type.
+**User:** Show menu
+
+**Bot:** We offer Margherita, Pepperoni, BBQ Chicken, Veggie Pizza, and more.
+
+**User:** I want to order a pizza
+
+**Bot:** Sure! Please select your preferred pizza type and size.
 
 ---
 
 ## 📸 Screenshots
 
-### Home Page
+### 🏠 Home Page
+
 ![Home Page](home.png)
 
-### Chat Interface
+### 💬 Chat Interface
+
 ![Chat Interface](chat.png)
 
-### Menu Screen
-![Menu](menu.png)
+### 🍕 Menu Screen
 
-### Order Screen
-![Order](order.png)
+![Menu Screen](menu.png)
+
+### 🧾 Order Screen
+
+![Order Screen](order.png)
 
 ---
 
-## 🏫 Academic Information
+## 🏫 Academic Profile
 
-| Detail | Info |
-|--------|------|
-| Student | Sami-Ur-Rehman (Registration number: 23108323) |
-| Institution | SZABIST — Department of Robotics & AI |
-| Subject | Artificial Neural Networks (ANN) |
-| Instructor | Sir Hassan Mujtaba |
+| Academic Profile | Information                                                |
+| ---------------- | ---------------------------------------------------------- |
+| Student Name     | Sami-Ur-Rehman (23108323)                                  |
+| Institution      | SZABIST — Department of Robotics & Artificial Intelligence |
+| Course           | Artificial Neural Networks (ANN)                           |
+| Instructor       | Sir Hassan Mujtaba                                         |
+
+---
+
+## 📄 Project Documentation
+
+* ANN Project Application.pdf
+* Pizza_Chatbot_Model.ipynb
+
+---
+
+## 🎓 Learning Outcomes
+
+Through this project, the following concepts were practiced:
+
+* Flask web application development
+* Frontend and backend integration
+* Rule-based chatbot implementation
+* User input handling
+* Conversational interface design
+* Basic AI-inspired response systems
+* GitHub project management and documentation
 
 ---
 
 ## 📝 License
 
-This project is developed for academic purposes.
+This project was developed for academic purposes as part of the Artificial Neural Networks (ANN) course at SZABIST.
+
