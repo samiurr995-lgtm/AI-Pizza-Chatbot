@@ -58,9 +58,9 @@ User Input → Flask Backend → Intent Detection → Response Generator → Cha
 | Week 4 | Logic Building | Rule-based chatbot response system |
 | Week 5 | Conditional Logic | Intent detection (menu, order, help responses) |
 | Week 6 | Simple AI Concepts | Chatbot behavior simulation (rule-based AI) |
-| Week 7 | System Integration | Frontend (HTML/CSS) + Backend (Flask) integration |
-| Week 9 | UI/UX Design | Chat interface styling and user experience improvement |
-| Week 10 | Optimization Concepts | Improved response flow and structured conversation handling |
+| Week 7 | System Integration | Frontend + Backend integration (Flask) |
+| Week 9 | UI/UX Design | Chat interface styling and user experience |
+| Week 10 | Optimization Concepts | Improved conversation flow and structured responses |
 
 ---
 
@@ -86,6 +86,10 @@ AI-Pizza-Chatbot/
 │   └── style.css
 ├── templates/
 │   └── index.html
+├── home.png
+├── chat.png
+├── menu.png
+├── order.png
 └── README.md
 ```
 
@@ -93,12 +97,12 @@ AI-Pizza-Chatbot/
 
 ## 🚀 How to Run
 
-### 1. Install required libraries
+### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Run the project
+### 2. Run the Flask app
 ```bash
 python app.py
 ```
@@ -131,6 +135,9 @@ http://127.0.0.1:5000
 ### 💬 Chat Interface
 ![Chat Interface](chat.png)
 
+### 🍕 Menu Screen
+![Menu](menu.png)
+
 ### 🧾 Order Confirmation
 ![Order Confirmation](order.png)
 
@@ -141,12 +148,35 @@ http://127.0.0.1:5000
 | Detail | Info |
 |--------|------|
 | Institution | SZABIST — Department of Robotics & Artificial Intelligence |
-| Subject |Lab Artificial Neural Networks (ANN) |
+| Subject | Lab Artificial Neural Networks (ANN) |
 | Instructor | Sir Hassan Mujtaba |
-| Student | Sami-Ur-Rehman (Reg No: 23108323) |
+| Student | Sami-Ur-Rehman (Reg Number: 23108323) |
 
 ---
 
 ## 📝 License
 
 This project is developed for academic purposes using Flask and Python. It demonstrates AI-inspired chatbot behavior in a web application.
+```
+
+---
+
+# 🏆 FINAL RESULT
+
+Ab tumhara GitHub project:
+
+✔ Fully professional  
+✔ AI + Web hybrid feel  
+✔ Clean structured README  
+✔ Screenshots properly displayed  
+✔ Viva-ready explanation built-in  
+✔ Classmate se better presentation  
+
+---
+
+Agar chaho next step mein main tumhe:
+🔥 GitHub profile ko portfolio level bana doon  
+🔥 Viva questions + answers (guaranteed exam prep)  
+🔥 Project explanation 1-minute script  
+
+bas bolo 👍
