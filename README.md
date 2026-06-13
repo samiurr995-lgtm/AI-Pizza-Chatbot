@@ -48,7 +48,7 @@ User Input → Flask Backend → Intent Detection → Response Generation → Ch
 
 ---
 
-## 📚 Course Concepts Applied
+## 📚 Concepts Applied
 
 | Topic                   | Implementation                                       |
 | ----------------------- | ---------------------------------------------------- |
