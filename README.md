@@ -67,8 +67,7 @@ User Input → Flask Backend → Simple Intent Matching → Response Output → 
 AI-Pizza-Chatbot/
 ├── app.py
 ├── requirements.txt
-├── ANN Final Project Application.pdf
-├── ANN PPT.pptx
+├── ANN Project Application.pdf
 ├── static/
 │   └── style.css
 ├── templates/
