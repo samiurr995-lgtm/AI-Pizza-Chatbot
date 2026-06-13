@@ -125,11 +125,14 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-- Home Page  
-- Chat Interface  
-- Order Confirmation  
+### 🏠 Home Page
+![Home Page](home.png)
 
-(Add your images: home.png, chat.png, order.png)
+### 💬 Chat Interface
+![Chat Interface](chat.png)
+
+### 🧾 Order Confirmation
+![Order Confirmation](order.png)
 
 ---
 
@@ -137,10 +140,10 @@ http://127.0.0.1:5000
 
 | Detail | Info |
 |--------|------|
-| Institution | SZABIST — Dept. of Robotics & Artificial Intelligence |
-| Subject | Artificial Neural Networks (ANN) Lab |
+| Institution | SZABIST — Department of Robotics & Artificial Intelligence |
+| Subject |Lab Artificial Neural Networks (ANN) |
 | Instructor | Sir Hassan Mujtaba |
-| Student | Sami Ur Rehman (Reg No: 23108323) |
+| Student | Sami-Ur-Rehman (Reg No: 23108323) |
 
 ---
 
