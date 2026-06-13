@@ -1,51 +1,50 @@
-# 🍕 AI-Powered Pizza Ordering Chatbot (Flask Web Application)
+# 🍕 AI-Powered Intelligent Pizza Ordering Chatbot (Flask Web Application)
 
-A smart and interactive web-based Pizza Chatbot developed using Flask, HTML, CSS, and Python. This project simulates an AI-style conversational system that helps users browse menu, place orders, and get restaurant information in real-time.
+A smart, interactive, and AI-inspired web-based Pizza Chatbot developed using Flask, HTML, CSS, and Python. This project simulates a conversational assistant for a pizza restaurant, enabling users to browse menu items, place orders, and receive real-time responses in a simple and user-friendly interface.
 
 ---
 
 ## 📌 Project Overview
 
-This project is designed as an AI-inspired chatbot system for pizza ordering. It acts as a virtual assistant for a pizza restaurant, allowing users to interact in a conversational way to view menu items, check prices, place orders, and get delivery information.
+This project is designed as an AI-inspired chatbot system that enhances the pizza ordering experience through conversational interaction. The chatbot acts as a virtual assistant for a pizza restaurant, allowing users to interact naturally to explore menus, check prices, place orders, and get delivery-related information.
 
-The system demonstrates how modern web applications can integrate chatbot logic to improve user experience and automate customer support.
+The system demonstrates how modern web technologies combined with chatbot logic can improve customer engagement and automate basic restaurant services.
 
 ---
 
 ## 🤖 AI Concept Used
 
-This project simulates a rule-based Natural Language Processing (NLP) chatbot that understands user inputs and provides relevant responses such as menu display, order processing, and customer support.
+This project simulates a rule-based Natural Language Processing (NLP) chatbot. It processes user inputs and maps them to predefined intents such as menu display, order handling, and customer support responses.
 
-It represents how AI-style conversational systems work in real-world web applications.
+It reflects how AI-style conversational systems are implemented in real-world web applications without using heavy deep learning models.
 
 ---
 
 ## 🌟 Project Highlights
 
 - Real-time chatbot interaction  
-- AI-style conversational responses  
-- Web-based user interface using Flask  
-- Fast and lightweight system  
-- Beginner-friendly AI web application  
-- Simple and clean UI design  
+- AI-style conversational response system  
+- Lightweight and fast Flask web application  
+- Beginner-friendly AI implementation  
+- Clean and responsive UI design  
+- Real-world restaurant use-case simulation  
 
 ---
 
 ## 🎯 Features
 
 - Interactive Chat Interface  
-- Pizza Menu Information  
-- Price Details  
-- Order Placement System  
-- Delivery Information  
-- Restaurant Support System  
-- User-Friendly Design  
+- Pizza Menu Exploration  
+- Price Information System  
+- Order Placement Simulation  
+- Delivery & Support Responses  
+- User-Friendly UI/UX  
 
 ---
 
 ## 🧠 System Architecture
 
-User Input → Flask Backend → Intent Processing → Response Generator → Chat Interface
+User Input → Flask Backend → Intent Detection → Response Generator → Chat Interface
 
 ---
 
@@ -98,13 +97,13 @@ http://127.0.0.1:5000
 ## 💬 Sample Conversations
 
 **User:** Hi  
-**Bot:** Welcome to Pizza Chatbot! How can I help you?
+**Bot:** Welcome to Pizza Chatbot! How can I help you today?
 
 **User:** Show menu  
-**Bot:** We offer Margherita, Pepperoni, BBQ Chicken, and more delicious pizzas.
+**Bot:** We offer Margherita, Pepperoni, BBQ Chicken, Veggie Supreme, and more delicious pizzas.
 
 **User:** I want pizza  
-**Bot:** Sure! Please select size and type of pizza.
+**Bot:** Sure! Please select size, type, and quantity for your order.
 
 ---
 
@@ -112,7 +111,7 @@ http://127.0.0.1:5000
 
 - Home Page  
 - Chat Interface  
-- Order Response  
+- Order Confirmation  
 
 (Add your images: home.png, chat.png, order.png)
 
@@ -120,4 +119,4 @@ http://127.0.0.1:5000
 
 ## 📝 License
 
-This project is licensed under the MIT License.
+This project is developed for academic purposes using Flask and Python. It demonstrates AI-inspired chatbot behavior in a web application.
