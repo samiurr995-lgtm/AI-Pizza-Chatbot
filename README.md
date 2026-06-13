@@ -48,6 +48,22 @@ User Input → Flask Backend → Intent Detection → Response Generator → Cha
 
 ---
 
+## 📚 Course Concepts Applied
+
+| Week | Topic | Applied In This Project |
+|------|------|--------------------------|
+| Week 1 | Python Basics | Flask setup, backend logic, project structure |
+| Week 2 | Web Development Basics | HTML templates, routing system in Flask |
+| Week 3 | Data Handling | Menu data processing and user input handling |
+| Week 4 | Logic Building | Rule-based chatbot response system |
+| Week 5 | Conditional Logic | Intent detection (menu, order, help responses) |
+| Week 6 | Simple AI Concepts | Chatbot behavior simulation (rule-based AI) |
+| Week 7 | System Integration | Frontend (HTML/CSS) + Backend (Flask) integration |
+| Week 9 | UI/UX Design | Chat interface styling and user experience improvement |
+| Week 10 | Optimization Concepts | Improved response flow and structured conversation handling |
+
+---
+
 ## 🛠 Technologies Used
 
 - Python  
@@ -114,6 +130,17 @@ http://127.0.0.1:5000
 - Order Confirmation  
 
 (Add your images: home.png, chat.png, order.png)
+
+---
+
+## 🏫 Academic Information
+
+| Detail | Info |
+|--------|------|
+| Institution | SZABIST — Dept. of Robotics & Artificial Intelligence |
+| Subject | Artificial Neural Networks (ANN) Lab |
+| Instructor | Sir Hassan Mujtaba |
+| Student | Sami Ur Rehman (Reg No: 23108323) |
 
 ---
 
